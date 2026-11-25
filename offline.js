@@ -1,4 +1,4 @@
-const cacheName = 'kamakura-trip-fabd6b37d3f3d0';
+const cacheName = 'kamakura-trip-bcd55e8a8c3afc';
 const rootPage = new URL('./', self.location.href);
 
 self.addEventListener('install', event => {
